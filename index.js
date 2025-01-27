@@ -23,3 +23,7 @@ function newBfeature(){
 function newly(){
     console.log("newly added something")
 }
+
+function Test(){
+    console.log("test")
+}
