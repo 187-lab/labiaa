@@ -13,3 +13,13 @@ function newFeatureA(){
 function newFeatureB(){
     console.log("New featuer B")
 }
+
+function newBfeature(){
+    console.log("newB added something")
+    console.log("newB added something again")
+}
+
+
+function newly(){
+    console.log("newly added something")
+}
